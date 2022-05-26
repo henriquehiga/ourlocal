@@ -5,7 +5,7 @@ Nossos serviços permitem as pessoas que almejam um local confortável, acessív
 
 E para aqueles que possuem um apartamento e tenha o desejo de colocar o apartamento para alocação, também temos disponível nosso serviço de gestão de apartamento. Cobramos os aluguéis, revisamos o apartamento e podemos fazer reformas caso seja do seu interesse!
 
-
+[Integrantes do grupo](https://github.com/henriquehiga/ourlocal/wiki/Integrantes-do-grupo:)
 ***
 
 ## Entregas:
@@ -30,3 +30,6 @@ E para aqueles que possuem um apartamento e tenha o desejo de colocar o apartame
 
 **Diagrama de classe de projeto**
 [Diagrama de classe de projeto](https://github.com/henriquehiga/ourlocal/wiki/Diagrama-de-Classes-de-Projeto)
+
+**Arquitetura em camadas**
+[Arquitetura em camadas](https://github.com/henriquehiga/ourlocal/wiki/Arquitetura-em-camadas)
